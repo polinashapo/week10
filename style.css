@@ -1,0 +1,26 @@
+.main {
+    margin: 0 auto;
+}
+
+.cat_header {
+    display: flex;  
+    margin-left: 200px;
+
+}
+
+.cat_img{
+    display: flex;  
+    justify-content: center;
+}
+
+.cat_button {
+    background-color: black;
+    color: white;
+
+    width: 20%;
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 3px;
+
+    padding: 10px;
+
+}
